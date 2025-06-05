@@ -1,0 +1,10 @@
+[submodule "Ava"]
+	path = Ava
+	url = https://github.com/donnnq/PreciousAva.git
+
+[submodule "PreciousAva"]
+	path = PreciousAva
+	url = https://github.com/donnnq/PreciousAva.git
+[submodule "Ava/Ava"]
+	path = Ava/Ava
+	url = https://github.com/avajs/ava.git
